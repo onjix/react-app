@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.3069c6d9.css",
-    "main.js": "/react-app/static/js/main.18c9d97d.js",
-    "static/media/시스템구성도.png": "/react-app/static/media/시스템구성도.a71bfb389b8544e7df6b.png",
-    "static/media/화면1.png": "/react-app/static/media/화면1.5d5bd35e494cb3a73062.png",
-    "static/media/화면3.png": "/react-app/static/media/화면3.8e6b9417e9b154f93c9e.png",
-    "static/media/화면2.png": "/react-app/static/media/화면2.240f5146b4985e8084e9.png",
-    "index.html": "/react-app/index.html",
-    "main.3069c6d9.css.map": "/react-app/static/css/main.3069c6d9.css.map",
-    "main.18c9d97d.js.map": "/react-app/static/js/main.18c9d97d.js.map"
+    "main.css": "/rexplain/static/css/main.3069c6d9.css",
+    "main.js": "/rexplain/static/js/main.747a6961.js",
+    "static/media/시스템구성도.png": "/rexplain/static/media/시스템구성도.a71bfb389b8544e7df6b.png",
+    "static/media/화면1.png": "/rexplain/static/media/화면1.5d5bd35e494cb3a73062.png",
+    "static/media/화면3.png": "/rexplain/static/media/화면3.8e6b9417e9b154f93c9e.png",
+    "static/media/화면2.png": "/rexplain/static/media/화면2.240f5146b4985e8084e9.png",
+    "index.html": "/rexplain/index.html",
+    "main.3069c6d9.css.map": "/rexplain/static/css/main.3069c6d9.css.map",
+    "main.747a6961.js.map": "/rexplain/static/js/main.747a6961.js.map"
   },
   "entrypoints": [
     "static/css/main.3069c6d9.css",
-    "static/js/main.18c9d97d.js"
+    "static/js/main.747a6961.js"
   ]
 }
