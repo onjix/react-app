@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rexplain/static/css/main.eb412b97.css",
+    "main.js": "/rexplain/static/js/main.b3ba310d.js",
+    "static/media/시스템구성도.png": "/rexplain/static/media/시스템구성도.a71bfb389b8544e7df6b.png",
+    "static/media/화면1.png": "/rexplain/static/media/화면1.5d5bd35e494cb3a73062.png",
+    "static/media/화면3.png": "/rexplain/static/media/화면3.8e6b9417e9b154f93c9e.png",
+    "static/media/화면2.png": "/rexplain/static/media/화면2.240f5146b4985e8084e9.png",
+    "index.html": "/rexplain/index.html",
+    "main.eb412b97.css.map": "/rexplain/static/css/main.eb412b97.css.map",
+    "main.b3ba310d.js.map": "/rexplain/static/js/main.b3ba310d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb412b97.css",
+    "static/js/main.b3ba310d.js"
+  ]
+}
