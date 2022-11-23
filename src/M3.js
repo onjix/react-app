@@ -25,6 +25,9 @@ function M3() {
             <Link to="/M4">
               <button class="btn">결과 및 기대효과</button>
             </Link>
+            <Link to="/M5">
+              <button class="btn">이벤트</button>
+            </Link>
           </div>
         </nav>
         <hr class="line"></hr>
